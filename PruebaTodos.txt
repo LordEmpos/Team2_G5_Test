@@ -7,5 +7,13 @@ Ok
 William
 Cambios
 Faber
+<<<<<<< HEAD
 Carlos Meneses
+=======
+CarlosM
+Prueba Pull Faber/Carlos
+>>>>>>> e187b92c93ee58932456f2cf8793423cb05b6ddd
 
+Recibido
+
+Prueba linea Faber
